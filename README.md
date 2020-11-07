@@ -7,4 +7,4 @@ And you're welcome to my _CodeSpace_.
 ![GitHub User's stars](https://img.shields.io/github/stars/anubra266?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/anubra266?style=social)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/anubra266)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anubra266&theme=onedark)](https://github.com/anubra266)
